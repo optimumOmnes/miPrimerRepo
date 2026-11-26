@@ -10,6 +10,7 @@ labels: bug
 assignees: ""
 ---
 
+
 ## 🐛 Bug Report
 
 ### Descripción
